@@ -1,0 +1,17 @@
+{
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.suggest.completeFunctionCalls": true,
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.quiet": true,
+  "eslint.alwaysShowStatus": true,
+  "typescript.format.enable": false,
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "gitlens.blame.ignoreWhitespace": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true
+}
